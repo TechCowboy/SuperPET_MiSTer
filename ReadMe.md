@@ -20,10 +20,14 @@ This is my first attempt at a MiSTer core.  Wish me luck :-)
 The original PET2001_MiSTer seemed to be compiled from Quartus 17, so I downloaded the lite version
 [Quartus Lite 17-1](https://www.intel.com/content/www/us/en/software-kit/669444/intel-quartus-prime-lite-edition-design-software-version-17-1-for-windows.html)
 
+# Compiling the project
 
+Open the project file SuperPET.qpf file
 
+Under the Menu, Processing, choose Start Compiling.
+Patience is a virtue...
 
-## Installation:
+## Installation on MiSTer:
 Copy the *.rbf file at the root of the SD card. Copy roms (*.prg,*.tap) to **SuperPET** folder.
 
 ### Notes:
