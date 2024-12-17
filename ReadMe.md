@@ -25,6 +25,7 @@ The original PET2001_MiSTer seemed to be compiled from Quartus 17, so I download
 Open the project file SuperPET.qpf file
 
 Under the Menu, _Processing_, choose _Start Compiling_.
+
 ***Patience is a virtue...***
 
 ## Installation on MiSTer:
