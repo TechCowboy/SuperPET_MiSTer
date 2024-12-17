@@ -24,8 +24,8 @@ The original PET2001_MiSTer seemed to be compiled from Quartus 17, so I download
 
 Open the project file SuperPET.qpf file
 
-Under the Menu, Processing, choose Start Compiling.
-Patience is a virtue...
+Under the Menu, [b]Processing[/b], choose [b]Start Compiling[/b].
+[i]Patience is a virtue...[/i]
 
 ## Installation on MiSTer:
 Copy the *.rbf file at the root of the SD card. Copy roms (*.prg,*.tap) to **SuperPET** folder.
